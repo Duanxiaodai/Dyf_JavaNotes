@@ -1,0 +1,11 @@
+server:
+  port: 7777
+spring:
+  activemq:
+    broker-url: tcp://10.112.70.211:61616
+    user: admin
+    password: admin
+  jms:
+    pub-sub-domain: true
+
+mytopic: boot-activemq-topic
