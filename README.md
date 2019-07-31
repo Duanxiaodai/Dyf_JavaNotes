@@ -1,12 +1,13 @@
 # 笔记目录
 
-==学习路线与笔记汇总。。。== 
+==学习路线与笔记汇总。。。==  
 
 ==脑图路线ing。。。==
+<div align="center"> ### 简易版分布式架构图 </div><br>
 <div align="center"> <img src="./imgs/微信图片_20190731100739.jpg" width=""/> </div><br>
 
 
-### **Java**
+### Java
 
 - Java基础
 - java高级
@@ -34,6 +35,3 @@
 - Docker
 - Maven
 
-​	
-
-​	
