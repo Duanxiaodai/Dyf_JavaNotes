@@ -4,7 +4,7 @@
 
 ==脑图路线ing。。。==
 
-![微信图片_20190731100739](imgs\微信图片_20190731100739.jpg)
+![微信图片_20190731100739](./imgs/微信图片_20190731100739.jpg)
 
 ### **Java**
 
@@ -15,7 +15,7 @@
 
 - MySQL初级
 - MySql高级
-- [Redis](./阶段四 分布式/Redis 初级/redis笔记.md)
+- [Redis](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E5%9B%9B%20%E5%88%86%E5%B8%83%E5%BC%8F/Redis%20%E5%88%9D%E7%BA%A7/redis%E7%AC%94%E8%AE%B0.md)
 
 ### 系统设计
 
