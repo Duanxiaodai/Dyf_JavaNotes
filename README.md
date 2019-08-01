@@ -1,6 +1,4 @@
-# 
 
-[TOC]
 
 
 <div align="center"> <h2>简易版分布式架构图</h2> </div><br>
