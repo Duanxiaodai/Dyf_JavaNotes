@@ -4,7 +4,7 @@
 <div align="center"> <h2>简易版分布式架构图</h2> </div><br>
 <div align="center"> <img src="./Other/imgs/微信图片_20190731100739.jpg" width=""/> </div><br>
 
-# <div align="center"> 目录</div>
+# <div align="center">  <h1>目录</h1> </div>
 
 ## Java
 
