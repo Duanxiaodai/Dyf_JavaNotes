@@ -13,7 +13,7 @@
   - 并发
   - [NIO](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E4%B8%80%20%E5%9F%BA%E7%A1%80/javase%20%E9%AB%98%E7%BA%A7/NIO/java_NIO.md)
   - [Java 8 特性](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E4%B8%80%20%E5%9F%BA%E7%A1%80/javase%20%E9%AB%98%E7%BA%A7/java8%E6%96%B0%E7%89%B9%E6%80%A7/Lambda.md)
-  - [JVM](https://duanxiaodai.github.io/JVM+.html )
+  - [JVM](https://www.processon.com/view/link/5d9abe7be4b0aca79ab8d044 )
   - [集合](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E4%B8%80%20%E5%9F%BA%E7%A1%80/javase%20%E9%AB%98%E7%BA%A7/%E9%9B%86%E5%90%88/%E9%9B%86%E5%90%88%E5%AF%BC%E5%9B%BE.md)
   - [IO流](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E4%B8%80%20%E5%9F%BA%E7%A1%80/javase%20%E9%AB%98%E7%BA%A7/IO%E6%B5%81/IO%E6%B5%81.md)
 - 数据结构与算法
