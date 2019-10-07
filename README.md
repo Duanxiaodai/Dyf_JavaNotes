@@ -20,12 +20,12 @@
   - [算法总结](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E9%9B%B6%20%E9%99%84%E5%8A%A0/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93.md)
   - 剑指Offer
   - Leetcode
-- [设计模式](https://duanxiaodai.github.io/Java设计模式.html)
+- [设计模式](https://www.processon.com/view/link/5d9aae0de4b0a95d9602ee22)
 
 ## 数据库
 
 - [MySQL初级](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E4%BA%8C%20Web%E5%9F%BA%E7%A1%80/Mysql/MySQL%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0.md)
-- [MySQL高级](https://duanxiaodai.github.io/%E5%AE%8C%E6%95%B4%E7%89%88MySQL%E9%AB%98%E7%BA%A7.html)
+- [MySQL高级](https://www.processon.com/view/link/5d9aa907e4b03347e1330db8)
 - [Redis](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E5%9B%9B%20%E5%88%86%E5%B8%83%E5%BC%8F/Redis%20%E5%88%9D%E7%BA%A7/redis%E7%AC%94%E8%AE%B0.md)
 
 ## 常用框架
@@ -40,23 +40,23 @@
 
 - [集群](./Other/mds/分布式笔记/认识微服务.md)
 - [分布式](./Other/mds/分布式笔记/认识微服务2.md)
-- [Nginx](https://duanxiaodai.github.io/Nginx%20.html)
+- [Nginx](https://www.processon.com/view/link/5d9aba92e4b07a0a4d4cf2cd)
 - Tomcat
-- [Dubbo](https://duanxiaodai.github.io/Dubbo.html)
-- [Zookeeper](https://duanxiaodai.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BZookeeper.html)
-- [SpringCloud](https://duanxiaodai.github.io/SpringCloud2018(1).html)
-- [Redis](https://duanxiaodai.github.io/redis%E5%88%9D%E7%BA%A7%E7%AC%94%E8%AE%B0.html)
-- [ActiveMQ](https://duanxiaodai.github.io/ActiveMQ.html)
-- [Mycat](https://duanxiaodai.github.io/%E7%B3%BB%E7%BB%9F%E9%83%A8%E7%BD%B2%20MyCat%20.html)
+- [Dubbo](https://www.processon.com/view/link/5d9abadee4b0aca79ab8cb67)
+- [Zookeeper](https://www.processon.com/view/link/5d9abaebe4b07a0a4d4cf340)
+- [SpringCloud](https://www.processon.com/view/link/5d9abb00e4b08fc441fbeff2)
+- [Redis](https://www.processon.com/view/link/5d9aba65e4b0a95d96030434)
+- [ActiveMQ](https://www.processon.com/view/link/5d9aa76de4b07a0a4d4ccf5e)
+- [Mycat](https://www.processon.com/view/link/5d9aa9d2e4b0a95d9602e59e)
 
 ## 操作系统
 
-- [Linux](https://duanxiaodai.github.io/Linux.html)
+- [Linux](https://www.processon.com/view/link/5d9abab8e4b03347e1332e0e)
 
 ## 工具
 
-- [Git](https://duanxiaodai.github.io/git.html)
-- [Docker](https://duanxiaodai.github.io/Docker.html)
+- [Git](https://www.processon.com/view/link/5d9abaa7e4b0aca79ab8cb11)
+- [Docker](https://www.processon.com/view/link/5d8b179ae4b011ca2aae2ebe)
 - [Maven](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E4%B8%89%20%E6%A1%86%E6%9E%B6/Maven/maven%E9%AB%98%E7%BA%A7%E7%AC%94%E8%AE%B0.md)
 - [IDEA](Other/mds/00idea入门/idea快速上手指南.md)
 
