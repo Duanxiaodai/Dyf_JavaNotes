@@ -4,22 +4,23 @@
 <div align="center"> <h2>简易版分布式架构图</h2> </div><br>
 <div align="center"> <img src="./Other/imgs/微信图片_20190731100739.jpg" width=""/> </div><br>
 
-# <div align="center">  <h1>目录</h1> </div>
+<div align="center"> <h1>目录</h1> </div><br>
 
 ## Java
 
 - Java基础
-- java高级
+- Java高级
   - 并发
   - NIO
   - Java 8 特性
-  - JVM
-  - 容器
+  - [JVM](https://duanxiaodai.github.io/JVM+.html )
+  - 集合
+  - IO流
 - 数据结构与算法
+  - [算法总结](./Other/mds/数据结构与算法总结.md)
   - 剑指Offer
   - Leetcode
-- 设计模式
-  - 待定
+- [设计模式](https://duanxiaodai.github.io/Java设计模式.html)
 
 ## 数据库
 
@@ -37,27 +38,35 @@
 
 ## 分布式设计
 
-- 集群
-- 分布式
-- Nginx
+- [集群](./Other/mds/分布式笔记/认识微服务.md)
+- [分布式](./Other/mds/分布式笔记/认识微服务2.md)
+- [Nginx](https://duanxiaodai.github.io/Nginx%20.html)
 - Tomcat
-- Dubbo
+- [Dubbo](https://duanxiaodai.github.io/Dubbo.html)
 - [Zookeeper](https://duanxiaodai.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BZookeeper.html)
 - [SpringCloud](https://duanxiaodai.github.io/SpringCloud2018(1).html)
 - [Redis](https://duanxiaodai.github.io/redis%E5%88%9D%E7%BA%A7%E7%AC%94%E8%AE%B0.html)
 - [ActiveMQ](https://duanxiaodai.github.io/ActiveMQ.html)
-- Mycat
+- [Mycat](https://duanxiaodai.github.io/%E7%B3%BB%E7%BB%9F%E9%83%A8%E7%BD%B2%20MyCat%20.html)
 
 ## 操作系统
 
-- Linux
+- [Linux](https://duanxiaodai.github.io/Linux.html)
 
 ## 工具
 
-- Git
+- [Git](https://duanxiaodai.github.io/git.html)
 - [Docker](https://duanxiaodai.github.io/Docker.html)
 - [Maven](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E4%B8%89%20%E6%A1%86%E6%9E%B6/Maven/maven%E9%AB%98%E7%BA%A7%E7%AC%94%E8%AE%B0.md)
+- [IDEA](Other/mds/00idea入门/idea快速上手指南.md)
 
 ## 附加
 
-- [书签栏保存链接](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E4%B8%80%20%E5%9F%BA%E7%A1%80/Java%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
+- [书签栏保存链接](Other/mds/Java学习总结.md)
+
+
+
+
+
+<div align="center"> <h2>Java架构师成长图谱</h2> </div><br>
+<div align="center"> <img src="./Other/imgs/Java架构师知识成长图谱.jpg" width=""/> </div><br>
