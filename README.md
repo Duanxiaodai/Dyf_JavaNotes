@@ -11,8 +11,8 @@
 - Java基础
 - Java高级
   - 并发
-  - NIO
-  - Java 8 特性
+  - [NIO](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E4%B8%80%20%E5%9F%BA%E7%A1%80/javase%20%E9%AB%98%E7%BA%A7/NIO/java_NIO.md)
+  - [Java 8 特性](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E4%B8%80%20%E5%9F%BA%E7%A1%80/javase%20%E9%AB%98%E7%BA%A7/java8%E6%96%B0%E7%89%B9%E6%80%A7/Lambda.md)
   - [JVM](https://duanxiaodai.github.io/JVM+.html )
   - 集合
   - IO流
