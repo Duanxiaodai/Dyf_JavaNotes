@@ -53,7 +53,7 @@
 
 - [Linux](https://www.processon.com/view/link/5d9abab8e4b03347e1332e0e)
 
-## 大数据与云计算(待更新)
+## 大数据与云计算(待)
 
 - Hadoop
 - Hive
