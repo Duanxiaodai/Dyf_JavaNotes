@@ -2094,6 +2094,8 @@ public class SpringDataESTest {
 | between       | findByFieldBetween    | 获得指定范围的数据         | findByPriceBetween    |
 | lessThanEqual | findByFieldLessThan   | 获得小于等于指定值的数据   | findByPriceLessThan   |
 
+![1571638787840](imgs\1571638787840.png)
+
 ### 3.3.3 查询方法测试
 
 1）dao层实现
