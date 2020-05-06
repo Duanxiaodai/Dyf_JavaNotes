@@ -38,7 +38,7 @@
 - [集群](./Other/mds/分布式笔记/认识微服务.md)
 - [分布式](./Other/mds/分布式笔记/认识微服务2.md)
 - [Nginx](https://www.processon.com/view/link/5d9aba92e4b07a0a4d4cf2cd)
-- 
+- [Thrift]()
 - [Dubbo](https://www.processon.com/view/link/5d9abadee4b0aca79ab8cb67)
 - [Zookeeper](https://www.processon.com/view/link/5d9abaebe4b07a0a4d4cf340)
 - [SpringCloud](https://www.processon.com/view/link/5d9abb00e4b08fc441fbeff2)
