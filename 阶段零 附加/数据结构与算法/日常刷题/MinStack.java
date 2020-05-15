@@ -11,6 +11,9 @@ public class MinStack {
 
     }
 
+    public static void main(String[] args) {
+        System.out.println("dianyuefneg");
+    }
     public void push(int x) {
         stack.push(x);
         if (!minstack.isEmpty()&&minstack.peekFirst()<x){
